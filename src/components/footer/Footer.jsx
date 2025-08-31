@@ -230,7 +230,7 @@ export default function HealthcareLanding() {
 
               <div className="flex gap-4 mt-4">
                 <a
-                  href="#"
+                  href="https://www.facebook.com/share/19PtNNS5P4/"
                   className="w-10 h-10 bg-teal-600 hover:bg-cyan-400 rounded-full flex items-center justify-center group"
                 >
                   <Facebook className="w-5 h-5 text-white group-hover:text-teal-600" />
@@ -242,7 +242,7 @@ export default function HealthcareLanding() {
                   <Twitter className="w-5 h-5 text-white group-hover:text-teal-600" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/chandan-prajapati/"
+                  href="https://www.facebook.com/share/19PtNNS5P4/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-teal-600 hover:bg-cyan-400 rounded-full flex items-center justify-center group"
