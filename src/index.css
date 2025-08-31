@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Hide scrollbar globally but keep scroll behavior */
+html, body {
+  overflow-y: scroll; /* scrolling enabled */
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
